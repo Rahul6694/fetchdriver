@@ -1,0 +1,25 @@
+diff --git a/node_modules/react-native-element-dropdown/src/components/Dropdown/index.tsx b/node_modules/react-native-element-dropdown/src/components/Dropdown/index.tsx
+index 9c6a599..b4fb684 100644
+--- a/node_modules/react-native-element-dropdown/src/components/Dropdown/index.tsx
++++ b/node_modules/react-native-element-dropdown/src/components/Dropdown/index.tsx
+@@ -158,7 +158,7 @@ const DropdownComponent: <T>(
+         onSearch(searchText);
+       }
+       // eslint-disable-next-line react-hooks/exhaustive-deps
+-    }, [data, searchText]);
++    }, [searchText]);
+ 
+     const eventOpen = () => {
+       if (!disable) {
+diff --git a/node_modules/react-native-element-dropdown/src/components/Dropdown/styles.ts b/node_modules/react-native-element-dropdown/src/components/Dropdown/styles.ts
+index 2c83bdd..98ac7ed 100644
+--- a/node_modules/react-native-element-dropdown/src/components/Dropdown/styles.ts
++++ b/node_modules/react-native-element-dropdown/src/components/Dropdown/styles.ts
+@@ -44,6 +44,7 @@ export const styles = StyleSheet.create({
+     alignItems: 'center',
+   },
+   textItem: {
++    color: "#000",
+     flex: 1,
+     fontSize: 16,
+     writingDirection: I18nManager.isRTL ? 'rtl' : 'ltr',

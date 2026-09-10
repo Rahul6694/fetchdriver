@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "425317183914",
+    "project_id": "fetch-ffc64",
+    "storage_bucket": "fetch-ffc64.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425317183914:android:8a1c8c31747ab194617bd3",
+        "android_client_info": {
+          "package_name": "com.fetchdriver.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425317183914-kd7indcdicegjtjm0p4trqvi1d8r9ego.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClB228QZUQEdGHwjJosyeJjvfpCfld2Zs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425317183914-kd7indcdicegjtjm0p4trqvi1d8r9ego.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425317183914:android:0914d51aef20f494617bd3",
+        "android_client_info": {
+          "package_name": "com.fetchtexicustomer.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425317183914-kd7indcdicegjtjm0p4trqvi1d8r9ego.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClB228QZUQEdGHwjJosyeJjvfpCfld2Zs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425317183914-kd7indcdicegjtjm0p4trqvi1d8r9ego.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

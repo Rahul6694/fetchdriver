@@ -1,0 +1,21 @@
+export const AUTH = 'AUTH';
+export const TOKEN = 'TOKEN';
+export const TYPE = 'TYPE';
+export const LOG_OUT = 'LOG_OUT';
+export const LANGUAGE_CODE = 'LANGUAGE_CODE';
+export const SET_USER = 'SET_USER';
+export const SET_DATA = 'SET_DATA';
+export const SKIP = 'SKIP';
+export const DROP_DATA = 'DROP_DATA';
+export const SELECTCOMP = 'SELECTCOMP';
+export const CHOOSELANGUAGE = 'CHOOSELANGUAGE';
+export const ID = 'ID';
+export const AUTH_DATA = 'AUTH_DATA';
+export const MASTER_DATA = 'MASTER_DATA';
+export const CHECK_BOX = 'CHECK_BOX';
+export const PERSONAL_DATA = 'PERSONAL_DATA';
+export const EXPIRED_DOC_DETAILS = 'EXPIRED_DOC_DETAILS';
+export const SOCIAL_DATA = 'SOCIAL_DATA';
+export const INCOMING_BOOKING = 'INCOMING_BOOKING';
+export const CLEAR_INCOMING_BOOKING = 'CLEAR_INCOMING_BOOKING';
+
